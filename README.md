@@ -1,4 +1,4 @@
-# Live Preview 
+# Live Preview  
 https://linkedin-clone-69815.web.app/
 
 # Getting Started with Create React App and Redux
